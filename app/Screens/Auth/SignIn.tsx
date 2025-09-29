@@ -78,7 +78,7 @@ const SignIn = ({ navigation } : SignInScreenProps) => {
                                 fontSize: 15,
                                 color: colors.text,
                             }}>
-                                Forgot Password?
+                                ¿Olvidaste la contraseña?
                             </Text>
                         </TouchableOpacity>
                     </View>
